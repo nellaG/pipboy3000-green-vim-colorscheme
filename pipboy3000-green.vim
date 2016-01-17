@@ -17,11 +17,11 @@ hi Comment cterm=NONE ctermfg=47 ctermbg=NONE
 hi Conditional ctermfg=64 ctermbg=NONE
 hi Constant gui=NONE guifg=NONE guibg=NONE cterm=NONE ctermfg=23 ctermbg=NONE
 hi Define ctermfg=23 ctermbg=NONE
-hi Error gui=NONE guifg=Red guibg=NONE cterm=NONE ctermfg=203 ctermbg=15
+hi Error gui=NONE guifg=Red guibg=NONE cterm=NONE ctermfg=160 ctermbg=NONE
 hi Exception ctermfg=64 ctermbg=NONE
 hi Function ctermfg=190 ctermbg=NONE
 hi Identifier cterm=NONE ctermfg=156 ctermbg=NONE
-hi Ignore gui=NONE guifg=bg guibg=NONE cterm=NONE ctermfg=200 ctermbg=NONE
+hi Ignore gui=NONE guifg=bg guibg=NONE cterm=NONE ctermfg=64 ctermbg=NONE
 hi Include ctermfg=64 ctermbg=NONE
 hi Keyword ctermfg=64 ctermbg=NONE
 hi Label ctermfg=64 ctermbg=NONE
@@ -57,7 +57,7 @@ hi MatchParen gui=NONE guifg=NONE guibg=DarkCyan cterm=NONE ctermfg=200 ctermbg=
 hi ModeMsg gui=NONE guifg=NONE guibg=NONE cterm=NONE ctermfg=82 ctermbg=NONE
 hi MoreMsg gui=NONE guifg=NONE guibg=NONE cterm=NONE ctermfg=82 ctermbg=NONE
 hi NonText gui=NONE guifg=NONE guibg=Black cterm=NONE ctermfg=40 ctermbg=NONE
-hi Pmenu gui=NONE guifg=NONE guibg=NONE cterm=NONE ctermfg=200 ctermbg=0
+hi Pmenu gui=NONE guifg=NONE guibg=NONE cterm=NONE ctermfg=82 ctermbg=233
 hi PmenuSel gui=NONE guifg=NONE guibg=DarkGrey cterm=NONE ctermfg=NONE ctermbg=22
 hi PmenuSbar gui=NONE guifg=NONE guibg=Grey cterm=NONE ctermfg=NONE ctermbg=250
 hi PmenuThumb gui=reverse guifg=NONE guibg=NONE cterm=reverse ctermfg=NONE ctermbg=NONE
